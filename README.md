@@ -9,6 +9,3 @@ Skills:
 
 Current Goal:
 Become a Frontend Developer
-
-Connect with me:
-GitHub: https://github.com/prathmesh-pm7
